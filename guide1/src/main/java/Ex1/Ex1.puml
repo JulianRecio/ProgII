@@ -1,0 +1,14 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+
+class BankAccount {
+- CBU: String
+- Balance: float
++ deposit(float amount)
++ withdraw(float amount)
++ getBalance()
++ getCBU()
+}
+
+@enduml
