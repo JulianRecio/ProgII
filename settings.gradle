@@ -1,3 +1,4 @@
 rootProject.name = 'ProgII'
 include 'guide1'
+include 'guide2'
 
